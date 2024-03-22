@@ -1,0 +1,77 @@
+*{
+margin:0;
+    padding:0;
+}
+.pa1{
+    display:flex;
+    justify-content:space-between;
+}
+.img{
+    border-radius:50%;
+    width:100px;
+    height:100px;
+    margin-left:1vh;
+}
+h2{
+    margin-left:1em;
+    margin-top:1em;
+    font-weight:100px;
+}
+h1{
+    text-shadow:1px 2px 2px black;
+    margin-top:1rem;
+    margin-left:2px;
+}
+.pandu{
+    margin-top:2em;
+    margin-right:1vh;
+}
+.main{
+    display:flex;
+    margin-left: 2em;
+    gap: 20px;
+}
+.row{
+    display:flex;
+    margin-left:2.5em ;
+    gap: 100px;
+}
+.sr{
+    border-radius:50%;
+    width:30px;
+    height:30px;
+    margin-left:1vh;
+    margin-top:1vh;
+}
+.ram{
+    display:flex;
+}
+h5{
+    margin-top:2vh;
+}
+.amma{
+    display:flex;
+    justify-content:space-between;
+    font-weight:100px;
+}
+
+h4{
+    margin-left:1vh;
+    font-weight:10px;
+}
+.nanna{
+    margin-left:1vh;
+}
+.dad{
+    margin-right:1vh;
+}
+#loki{
+   width: 50%;
+   background-color: gray;
+   box-shadow: 4px 4px 4px black;
+margin-left: 20em;
+
+}
+.king{
+   margin-left: 0.5em;
+}
